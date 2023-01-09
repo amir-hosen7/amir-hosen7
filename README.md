@@ -41,14 +41,14 @@
 | OJ | Username | Solve Count | Rating | Contests|
 | -- | -------- | ----------- | -------| -------|          
 | Leetcode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 + | 1652 | 7 |
-| Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 + | 1375 | 85|
-| CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 23 + | 1643 | 5|
-| LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | N/A | N/A|
-| UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | N/A | N/A|
-| HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 59 | 1726 | 4|
+| Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 + | 1375 | 85 |
+| CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 23 + | 1643 | 5 |
+| LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | - | - |
+| UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | - | - |
+| HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 59 | 1726 | 4 |
 
-| Total solved problem: 1500 + | </br>
-| Total participated contest: 150 + |
+| Total solved problem: 1500 +  </br>
+| Total participated contest: 150 + 
 
 
 <!--
