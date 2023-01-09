@@ -34,8 +34,8 @@
 ### My Achievments
 <ul>
   <li> 🎓Ranked 61th in ICPC Asia Dhaka Online Preliminary Contest 2020 hosted by University of Dhaka. </li>
-  <li> 💡 <b> Achieved 1st Runner-Up prize </b> in a IUPC hosted by University of Global Village, Barishal in 2018. <li>
-  <li> 💡 Advanced for the first 3 phases in the Meta Hacker Cup 2022 programming contest. Ranked 1185th in Round 2 and won a <b> Meta Hacker Cup T-Shirt <\b> . </li>
+  <li> 💡 <b> Achieved 1st Runner-Up prize </b> in a IUPC hosted by University of Global Village, Barishal in 2018. </li>
+  <li> 💡 Advanced for the first 3 phases in the Meta Hacker Cup 2022 programming contest. Ranked 1185th in Round 2 and won a <b> Meta Hacker Cup T-Shirt </b> . </li>
 </ul>
 
 ### Problem-Solving-Stats
