@@ -11,7 +11,7 @@
     <img src="https://cp-badges.deta.dev/codechef/hidden_line" alt="CodeChef" />
   </a>
   <a href="https://atcoder.jp/users/Hidden_Line/">
-    <img src="https://cp-badges.deta.dev/atcoder/Hidden_Line" alt="Atcoder" />
+    <img src="https://cp-badges.deta.dev/atcoder/Hidden_Line" alt="AtCoder" />
   </a>
   <a href="https://github.com/amir-hosen7?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sheikh-arman?color=green&logo=github">
@@ -24,8 +24,8 @@
 <ul>
   <li> 🎓 Completed B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
   <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
-  <li> 💡 Solved numerous problems at <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">Codechef</a>,  
-    <a href="https://leetcode.com">Leetcode</a>, <a href="https://onlinejudge.org">UVA</a> </li>
+  <li> 💡 Solved numerous problems at <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">CodeChef</a>,  
+    <a href="https://leetcode.com">LeetCode</a>, <a href="https://onlinejudge.org">UVA</a> </li>
   <li> 📖 Studied different types of Data Structures and Algorithms </li>
   <li> 💼 Open to work as a <b> Software Engineer </b> Role </li>
 </ul>
