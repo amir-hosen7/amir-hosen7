@@ -37,8 +37,8 @@
   <li> 💡 Advanced for the first 3 phases in the Meta Hacker Cup 2022 programming contest. Ranked 1185th in Round 2 and won a <b> Meta Hacker Cup T-Shirt </b> . </li>
 </ul>
 
-### Problem-Solving-Stats
-| OJ | Username | No. of Solved Problem | Max Rating | No. of Contest |
+### Problem Solving Profile
+| OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
 | Leetcode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 | 1652 | 7 |
 | Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 | 1375 | 85 |
