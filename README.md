@@ -33,9 +33,9 @@
 
 ### My Achievments
 <ul>
-  <li> 🎓<b>Ranked 11th and Divisional Champion</b> in ACM ICPC ASIA WEST Dhaka Regional Programming Contest 2021</li>
-  
-  <li> 👕Won T-shirts from Meta Hackercup 2022 </li>
+  <li> 🎓Ranked 61th in ICPC Asia Dhaka Online Preliminary Contest 2020 hosted by University of Dhaka. </li>
+  <li> 💡 <b> Achieved 1st Runner-Up prize </b> in a IUPC hosted by University of Global Village, Barishal in 2018. <li>
+  <li> 💡 Advanced for the first 3 phases in the Meta Hacker Cup 2022 programming contest. Ranked 1185th in Round 2 and won a <b> Meta Hacker Cup T-Shirt <\b> . </li>
 </ul>
 
 ### Problem-Solving-Stats
@@ -43,6 +43,7 @@
 | -- | -------- | ----------- | -------| -------|          
 | Leetcode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 + | 1652 | 7 |
 | Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 + | 1375 | 85|
+| CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 23 + | 1643 | 5|
 | LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | N/A | N/A|
 | UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | N/A | N/A|
 | HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 59 | 1726 | 4|
