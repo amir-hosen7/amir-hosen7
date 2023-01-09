@@ -40,7 +40,7 @@
 ### Problem Solving Profile
 | OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
-| Leetcode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 | 1652 | 7 |
+| Leetcode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 | 1652 | 8 |
 | Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 | 1375 | 85 |
 | CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 23 | 1643 | 5 |
 | LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | - | - |
