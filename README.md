@@ -26,8 +26,8 @@
   <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
   <li> 💡 Solved numerous problems at <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">Codechef</a>,  
     <a href="https://leetcode.com">Leetcode</a>, <a href="https://onlinejudge.org">UVA</a> </li>
-  <li> 📖 Studied Data Structures and Algorithms </li>
-  <li> 💼 Open to Work for <b>Software Engineer</b> Role </li>
+  <li> 📖 Studied different types of Data Structures and Algorithms </li>
+  <li> 💼 Open to work as a <b> Software Engineer </b> Role </li>
 </ul>
 
 ### My Achievments
