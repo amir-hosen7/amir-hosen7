@@ -20,7 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=amir-hosen7" alt="visitors" />
   </a>
 </p>
-<h3> Currently I'm, </h3>
+<h3> About Me </h3>
 <ul>
   <li> 🎓Completed B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
   <li> 💡Participating in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
@@ -33,7 +33,7 @@
 
 ### My Achievments
 <ul>
-  <li> 🎓Ranked 61th in ICPC Asia Dhaka Online Preliminary Contest 2020 hosted by University of Dhaka. </li>
+  <li> 💡 Ranked 61th in ICPC Asia Dhaka Online Preliminary Contest 2020 hosted by University of Dhaka. </li>
   <li> 💡 <b> Achieved 1st Runner-Up prize </b> in a IUPC hosted by University of Global Village, Barishal in 2018. </li>
   <li> 💡 Advanced for the first 3 phases in the Meta Hacker Cup 2022 programming contest. Ranked 1185th in Round 2 and won a <b> Meta Hacker Cup T-Shirt </b> . </li>
 </ul>
@@ -48,7 +48,8 @@
 | UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | N/A | N/A|
 | HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 59 | 1726 | 4|
 
-| Total | | 1500 + | |150 + |
+| Total solved problem: 1500 + | 
+| Total participated contest: 150 + |
 
 
 <!--
