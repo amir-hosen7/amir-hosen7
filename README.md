@@ -1,28 +1,28 @@
-<h1 align="left">Hi 👋, I'm a Competitive Programmer!</h1>
+<h1 align="left">Hey 👋, I'm a Competitive Programmer!</h1>
 
 <p align="left">
-  <a href="https://leetcode.com/arman____/">
-    <img src="https://cp-badges.deta.dev/leetcode/arman____" alt="Leetcode" />
+  <a href="https://leetcode.com/Hidden_Line/">
+    <img src="https://cp-badges.deta.dev/leetcode/Hidden_Line" alt="Leetcode" />
   </a>
-  <a href="https://codeforces.com/profile/sk_arman">
-    <img src="https://cp-badges.deta.dev/codeforces/sk_arman" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/HiddenLine">
+    <img src="https://cp-badges.deta.dev/codeforces/HiddenLine" alt="Codeforces" />
   </a>
-  <a href="https://codechef.com/users/arman____/">
-    <img src="https://cp-badges.deta.dev/codechef/arman____" alt="CodeChef" />
+  <a href="https://codechef.com/users/hidden_line/">
+    <img src="https://cp-badges.deta.dev/codechef/hidden_line" alt="CodeChef" />
   </a>
-  <a href="https://atcoder.jp/users/sk_arman/">
-    <img src="https://cp-badges.deta.dev/atcoder/sk_arman" alt="Atcoder" />
+  <a href="https://atcoder.jp/users/Hidden_Line/">
+    <img src="https://cp-badges.deta.dev/atcoder/Hidden_Line" alt="Atcoder" />
   </a>
-  <a href="https://github.com/sheikh-arman?tab=followers">
+  <a href="https://github.com/amir-hosen7?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sheikh-arman?color=green&logo=github">
   </a>
-  <a href="https://github.com/sheikh-arman/">
-    <img src="https://komarev.com/ghpvc/?username=sheikh-arman" alt="visitors" />
+  <a href="https://github.com/amir-hosen7/">
+    <img src="https://komarev.com/ghpvc/?username=amir-hosen7" alt="visitors" />
   </a>
 </p>
 <h3> Currently I'm, </h3>
 <ul>
-  <li> 🎓Pursuing a B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
+  <li> 🎓Completed B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
   <li> 💡Participating in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
   <li> 💡Solving programming problems at <a href="https://codeforces.com">Codeforces</a>,<a href="https://codechef.com">Codechef</a>, 
     <a href="https://leetcode.com">Leetcode</a> </li>
@@ -41,25 +41,17 @@
 ### Problem-Solving-Stats
 | OJ | Username | Solve Count | Rating | Contests|
 | -- | -------- | ----------- | -------| -------|          
-| Leetcode | [sk_arman](https://leetcode.com/arman____/)| 320 | 1871 | 8|
-| Codeforces | [sk_arman](https://codeforces.com/profile/sk_arman)| 1100 | 1661 | 139|
-| CodeChef | [arman____](https://www.codechef.com/users/arman____) | 215 | 1980 | 38|
-| Toph | [skarman](https://toph.co/u/skarman) | 36 | 1570 | 5| 
-| AtCoder | [sk_arman](https://atcoder.jp/users/sk_arman) | 70 | 902 | 25|
-| SPOJ | [arman____](https://www.spoj.com/users/sourav1996/) | 47 | N/A | N/A|
-| LightOJ | [sk_arman](https://lightoj.com/user/sk_arman) | 138 | N/A | N/A|
-| Vjudge | [armancse](https://vjudge.net/user/armancse) | 76 | N/A | 7|
-| UVA | [sk_arman, id: 888496](http://uhunt.onlinejudge.org/id/888496) | 172 | N/A | N/A|
-| HackerEarth | [@skarman](https://www.hackerearth.com/@skarman) | 72 | 1909 | 11|
-| HackerRank | [arman_cse4_bu](https://www.hackerrank.com/arman_cse4_bu) | 8 | N/A | N/A|
-| CodeMarshal | [skarman](https://algo.codemarshal.org/users/skarman) | 40 | N/A| 10|
-| Facebook | [sk_arman](https://web.facebook.com/codingcompetitions/hacker-cup/2021/certificate/96351661072791) | 11 | N/A| 2|
-| Google Kickstart and CodeJam | [arman.cse4.bu(sk_arman))](https://github.com/souravbiswassanto/Codes) | 15 | N/A| 7|
-| Total | | 2320 | |252|
+| Leetcode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 + | 1652 | 7 |
+| Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 + | 1375 | 85|
+| LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | N/A | N/A|
+| UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | N/A | N/A|
+| HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 59 | 1726 | 4|
+
+| Total | | 1500 + | |150 + |
 
 
 <!--
-**sheikh-arman/sheikh-arman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amir-hosen7/amir-hosen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
