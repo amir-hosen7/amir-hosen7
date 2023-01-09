@@ -22,12 +22,12 @@
 </p>
 <h3> About Me </h3>
 <ul>
-  <li> 🎓 Completed B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
+  <li> 🎓 Completed B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal. </a> </li>
   <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
   <li> 💡 Solved numerous problems at <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">CodeChef</a>,  
-    <a href="https://leetcode.com">LeetCode</a>, <a href="https://onlinejudge.org">UVA</a> </li>
-  <li> 📖 Studied different types of Data Structures and Algorithms </li>
-  <li> 💼 Open to work as a <b> Software Engineer </b> Role </li>
+    <a href="https://leetcode.com">LeetCode</a>, <a href="https://onlinejudge.org">UVA. </a> </li>
+  <li> 📖 Studied different types of Data Structures and Algorithms. </li>
+  <li> 💼 Open to work as a <b> Software Engineer </b> Role. </li>
 </ul>
 
 ### My Achievments
