@@ -24,7 +24,7 @@
 <ul>
   <li> 🎓 Completed B.Sc degree from <a href = "https://bu.ac.bd/"> University of Barishal </a> </li>
   <li> 💡 Participating in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
-  <li> 💡 Solving programming problems at <a href="https://codeforces.com">Codeforces</a>,<a href="https://codechef.com">Codechef</a>, 
+  <li> 💡 Solving programming problems at <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">Codechef</a>,  
     <a href="https://leetcode.com">Leetcode</a> </li>
   <li> 📖 Learning Various Data Structures and Algorithms </li>
   <li> 💼 Open to Work for <b>Software Engineer</b> Role </li>
