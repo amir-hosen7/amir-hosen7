@@ -43,8 +43,9 @@
 | LeetCode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 | 1652 | 8 |
 | Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 | 1375 | 85 |
 | CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 23 | 1643 | 5 |
-| LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | - | - |
 | UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | - | - |
+| LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | - | - |
+| SPOJ | [hidden_line](https://www.spoj.com/users/hidden_line) | 40 | - | - |
 | HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 59 | 1726 | 4 |
 
 | Total solved problem: 1500 +  </br>
