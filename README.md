@@ -38,7 +38,7 @@
 </ul>
 
 ### Problem-Solving-Stats
-| OJ | Username | Solve Count | Rating | Contests|
+| OJ | Username | No. of Solved Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
 | Leetcode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 | 1652 | 7 |
 | Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 | 1375 | 85 |
