@@ -27,7 +27,6 @@
   <li> 💡 Solved numerous problems at <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">CodeChef</a>,  
     <a href="https://leetcode.com">LeetCode</a>, <a href="https://onlinejudge.org">UVA. </a> </li>
   <li> 📖 Studied different types of Data Structures and Algorithms. </li>
-  <li> 💼 Open to work as a <b> Software Engineer </b> Role. </li>
 </ul>
 
 ### My Achievments
