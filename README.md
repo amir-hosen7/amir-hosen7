@@ -39,9 +39,9 @@
 ### Problem Solving Profile
 | OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
-| LeetCode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 275 | 1652 | 8 |
-| Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 870 | 1375 | 85 |
-| CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 23 | 1643 | 5 |
+| LeetCode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 286 | 1652 | 10 |
+| Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 850 | 1375 | 90 |
+| CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 30 | 1643 | 6 |
 | UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | - | - |
 | LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | - | - |
 | SPOJ | [hidden_line](https://www.spoj.com/users/hidden_line) | 40 | - | - |
