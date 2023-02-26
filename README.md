@@ -45,7 +45,7 @@
 | UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | - | - |
 | LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | - | - |
 | SPOJ | [hidden_line](https://www.spoj.com/users/hidden_line) | 40 | - | - |
-| HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 59 | 1726 | 4 |
+| HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 64 | 1752 | 7 |
 
 | Total solved problem: 1500 +  </br>
 | Total participated contest: 150 + 
