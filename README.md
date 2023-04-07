@@ -33,13 +33,13 @@
 <ul>
   <li> 💡 Ranked 61th in ICPC Asia Dhaka Online Preliminary Contest 2020 hosted by University of Dhaka. </li>
   <li> 💡 <b> Achieved 1st Runner-Up prize </b> in a IUPC hosted by University of Global Village, Barishal in 2018. </li>
-  <li> 💡 Advanced for the first 3 phases in the Meta Hacker Cup 2022 programming contest. Ranked 1185th in Round 2 and won a <b> Meta Hacker Cup T-Shirt </b> . </li>
+  <li> 💡 Advanced for the first 2 phases in the Meta Hacker Cup 2022 programming contest.</li>
 </ul>
 
 ### Problem Solving Profile
 | OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
-| LeetCode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 286 | 1652 | 10 |
+| LeetCode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 286 | 1653 | 12 |
 | Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 850 | 1375 | 90 |
 | CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 30 | 1643 | 6 |
 | UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | - | - |
