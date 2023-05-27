@@ -47,8 +47,7 @@
 | SPOJ | [hidden_line](https://www.spoj.com/users/hidden_line) | 40 | - | - |
 | HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 64 | 1752 | 7 |
 
-| Total solved problem: 1500 +  </br>
-| Total participated contest: 150 + 
+
 
 
 <!--
