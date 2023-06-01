@@ -13,9 +13,7 @@
   <a href="https://atcoder.jp/users/Hidden_Line/">
     <img src="https://cp-badges.deta.dev/atcoder/Hidden_Line" alt="AtCoder" />
   </a>
-  <a href="https://github.com/amir-hosen7?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sheikh-arman?color=green&logo=github">
-  </a>
+  
   
 </p>
 <h3> About Me </h3>
