@@ -39,7 +39,7 @@
 ### Problem Solving Profile
 | OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
-| LeetCode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 286 | 1653 | 12 |
+| LeetCode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 350 | 1653 | 12 |
 | Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 850 | 1375 | 90 |
 | CodeChef | [hidden_line](https://www.codechef.com/users/hidden_line)| 30 | 1643 | 6 |
 | UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | - | - |
