@@ -16,9 +16,7 @@
   <a href="https://github.com/amir-hosen7?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sheikh-arman?color=green&logo=github">
   </a>
-  <a href="https://github.com/amir-hosen7/">
-    <img src="https://komarev.com/ghpvc/?username=amir-hosen7" alt="visitors" />
-  </a>
+  
 </p>
 <h3> About Me </h3>
 <ul>
