@@ -20,16 +20,17 @@
 <ul>
   <li> 🎓 Completed Bachelor of Science degree from <a href = "https://bu.ac.bd/"> University of Barishal, Barishal, Bangladesh. </a> </li>
   <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
-  <li> 💡 Solved numerous problems at <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">CodeChef</a>,  
+  <li> 💡 Solved more than 2K problems and particiapted more than 150 contests on different online judges like: <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">CodeChef</a>,  
     <a href="https://leetcode.com">LeetCode</a>, <a href="https://onlinejudge.org">UVA. </a> </li>
-  <li> 📖 Studied different types of Data Structures and Algorithms. </li>
+  <li> 📖 Built a strong foundation on Data Structures and Algorithms. </li>
 </ul>
 
-### My Achievments
+### My Achievements
 <ul>
-  <li> 💡 Ranked 61th in ICPC Asia Dhaka Online Preliminary Contest 2020 hosted by University of Dhaka. </li>
-  <li> 💡 <b> Achieved 1st Runner-Up prize </b> in a IUPC hosted by University of Global Village, Barishal in 2018. </li>
-  <li> 💡 Advanced for the first 2 phases in the Meta Hacker Cup 2022 programming contest.</li>
+  <li> 💡 <a href = "https://algo.codemarshal.org/contests/icpc-dhaka-20-preli/standings">Ranked 65 <sup>th</sup> in ICPC Asia Dhaka Online Preliminary Contest 2020.</a> </li>
+  <li> 💡 <a href = "https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings">Ranked 83 <sup>rd</sup> in ICPC Asia Dhaka Online Preliminary Contest 2021.</a> </li>
+  <li> 💡<a href = "https://ugv.edu.bd"> <b> Achieved 1<sup>st</sup> Runner-Up prize </b> in a IUPC hosted by University of Global Village, Barishal in 2018.</a> </li>
+  <li> 💡 Advanced for the first 2 phases in the Meta Hacker Cup 2022.</li>
 </ul>
 
 ### Problem Solving Profile
