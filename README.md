@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Amir Hosen a Competitive Programmer!</h1>
-
+<!---
 <p align="left">
   <a href="https://leetcode.com/Hidden_Line/">
     <img src="https://cp-badges.deta.dev/leetcode/Hidden_Line" alt="Leetcode" />
@@ -13,9 +13,9 @@
   <a href="https://atcoder.jp/users/Hidden_Line/">
     <img src="https://cp-badges.deta.dev/atcoder/Hidden_Line" alt="AtCoder" />
   </a>
-  
-  
 </p>
+-->
+
 <h3> About Me </h3>
 <ul>
   <li> 🎓 Completed Bachelor of Science degree from <a href = "https://bu.ac.bd/"> University of Barishal, Barishal, Bangladesh. </a> </li>
