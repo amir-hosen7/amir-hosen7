@@ -23,7 +23,7 @@
   <li> 💡 Solved more than 2K problems and participated more than 150 contests on different online judges like: <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">CodeChef</a>,  
     <a href="https://leetcode.com">LeetCode</a>, <a href="https://onlinejudge.org">UVA. </a> </li>
   <li> 📖 Built a strong foundation on Data Structures and Algorithms. </li>
-  <li> ≡ Gained solid knowledge on Front-End Development involving ReactJS, Redux, RESTful API, HTML, CSS. </li>
+  <li> ≡ Gained solid knowledge of Front-End Development involving ReactJS, Redux, RESTful API, HTML, CSS. </li>
 </ul>
 
 ### My Achievements
