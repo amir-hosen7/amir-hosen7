@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Amir Hosen a Competitive Programmer!</h1>
+<h3 align="left">Hey, I'm Amir Hosen a Competitive Programmer!</h3>
 <!---
 <p align="left">
   <a href="https://leetcode.com/Hidden_Line/">
