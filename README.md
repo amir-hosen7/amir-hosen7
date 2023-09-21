@@ -31,7 +31,7 @@
 ### My Achievements
 <ul>
   <li> 💡<a href = "https://ugv.edu.bd"> <b> Achieved 1<sup>st</sup> Runner-Up prize </b> in an IUPC hosted by the University of Global Village, Barishal in 2018.</a> </li>
-  <li> 💡<a href = "[https://ugv.edu.bd](https://www.hackerrank.com/contests/intra-department-coding-contest-csebu-2022-1/leaderboard)"> <b> Secured 5<sup>st</sup> position </b> at Intra Department Coding Contest 2022.</a> </li>
+  <li> 💡<a href = "https://www.hackerrank.com/contests/intra-department-coding-contest-csebu-2022-1/leaderboard"> <b> Secured 5<sup>st</sup> position </b> at Intra Department Coding Contest 2022.</a> </li>
   <li> 💡 <a href = "https://algo.codemarshal.org/contests/icpc-dhaka-20-preli/standings">Ranked 65<sup>th</sup> in ICPC Asia Dhaka Online Preliminary Contest 2020.</a> </li>
   <li> 💡 <a href = "https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings">Ranked 83<sup>rd</sup> in ICPC Asia Dhaka Online Preliminary Contest 2021.</a> </li>
   <li> 💡 <a href = "https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-1/scoreboard?start=600"> Advanced for the first 2 phases in the Meta Hacker Cup 2022.</a></li>
