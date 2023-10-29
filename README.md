@@ -41,7 +41,6 @@
 | OJ | Username | No. of Problem | Max Rating | No. of Contest |
 | -- | -------- | ----------- | -------| -------|          
 | LeetCode | [Hidden_Line](https://leetcode.com/Hidden_Line/)| 400 | 1653 | 12 |
-| Codeforces | [HiddenLine](https://codeforces.com/profile/HideenLine)| 850 | 1375 | 90 |
 | UVA | [Hidden_Line, id: 903158](http://uhunt.onlinejudge.org/id/903158) | 187 | - | - |
 | LightOJ | [hidden_line](https://lightoj.com/user/hidden_line) | 77 | - | - |
 | HackerEarth | [@Hidden_Line](https://www.hackerearth.com/@Hidden_Line) | 64 | 1752 | 7 |
