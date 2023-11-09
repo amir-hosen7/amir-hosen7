@@ -20,7 +20,7 @@
 <ul>
   <li> 🎓 Completed Bachelor of Science degree from <a href = "https://bu.ac.bd/"> University of Barishal, Barishal, Bangladesh. </a> </li>
   <li> 💡 Participated in various Onsite contests like ACM ICPC Onsites, IUPC's. </li>
-  <li> 💡 Solved more than 2K problems and participated more than 150 contests on different online judges like: <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">CodeChef</a>,  
+  <li> 💡 Solved more than 1.5K problems and participated more than 150 contests on different online judges like: <a href="https://codeforces.com">Codeforces</a>, <a href="https://codechef.com">CodeChef</a>,  
     <a href="https://leetcode.com">LeetCode</a>, <a href="https://onlinejudge.org">UVA. </a> </li>
   <li> 📖 Built a strong foundation on Data Structures and Algorithms. </li>
   <!---
